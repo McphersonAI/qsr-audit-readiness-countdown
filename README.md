@@ -93,5 +93,18 @@ Built by a franchise GM with 16 years in QSR operations and multiple consecutive
 
 ## Status
 
+**Version:** 1.0.1
+Publisher-note release; operational behavior and license unchanged.
+
 **Version:** 1.0.0  
 Initial release
+
+---
+
+## McPherson Governance V6 shadow beta
+
+McPherson AI is preparing an invite-only V6 shadow beta of McPherson Governance, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement.
+
+[Request beta consideration](https://mcphersonai.com/contact?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-audit-readiness-countdown#governance-setup)
+
+_This publisher note does not change this skill's behavior, data handling, or license._
